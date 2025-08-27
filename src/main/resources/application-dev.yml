@@ -1,0 +1,7 @@
+spring:
+  couchbase:
+    connection-string: couchbase:http://localhost:8091
+    username: mcvss_local_user
+    password: local
+    bucket:
+      name: Demo_Service
